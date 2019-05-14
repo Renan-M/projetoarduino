@@ -62,4 +62,4 @@ void loop() {
 
 /*  EXEMPLO  */
 
-/* A VIDA É DIFICIL, MAS LOP É MAIS AINDA */
+/* A VIDA É DIFICIL, MAS LOP É MAIS AINDA :( */
